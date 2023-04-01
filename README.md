@@ -9,7 +9,7 @@ dicas sobre se a tentativa atual está muito alta ou muito baixa em relação ao
 
 ### 🗻Hill Climbing
 
-O algoritmo Hill Climbing (subida de encosta, em português) é uma técnica de otimização heurística que busca encontrar uma solução ótima em um 
+O algoritmo Hill Climbing (subida da encosta, em português) é uma técnica de otimização heurística que busca encontrar uma solução ótima em um 
 espaço de busca, a partir de uma solução inicial.
 
 O funcionamento básico do algoritmo consiste em realizar sucessivas iterações, em cada uma delas, o algoritmo avalia a qualidade da solução 
