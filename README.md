@@ -1,4 +1,4 @@
-## 🕹️Jogo da Advinhação com Hill Climbin
+## 🕹️Jogo da Advinhação com Hill Climbing
 
   Este código é de um jogo de adivinhação, onde o jogador tenta adivinhar um número aleatório entre 1 e 100, e tem um limite de palpites.
 No contexto deste jogo, o algoritmo é utilizado para ajudar o jogador a adivinhar o número mais rapidamente, dando
