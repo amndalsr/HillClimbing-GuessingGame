@@ -17,5 +17,4 @@ atual e busca por uma solução vizinha que tenha uma melhor qualidade em relaç
 até que uma solução considerada ótima seja encontrada ou até que o algoritmo atinja um critério de parada.
   
   Uma das características mais importantes do algoritmo Hill Climbing é a sua simplicidade e eficiência computacional, uma vez que ele não requer 
-muitas informações sobre o espaço de busca ou sobre o problema a ser resolvido. No entanto, ele pode ficar preso em ótimos locais que não são ótimos 
-globais, o que é conhecido como o problema de ótimo local.
+muitas informações sobre o espaço de busca ou sobre o problema a ser resolvido. .
