@@ -9,7 +9,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 50px;
-    background-color: #635985;
+    background-color: #3AA6B9;
 }
 
 .content {
@@ -22,19 +22,19 @@ body {
 h1 {
     font-size: 36px;
     margin-bottom: 20px;
-    color: #CCCCCC;
+    color: #FAF0E4;
     margin-bottom: 3rem;
 }
 
 p {
     font-size: 20px;
     margin-bottom: 40px;
-    color: #CCCCCC;
+    color: #FAF0E4;
 }
 
 .p2 {
     font-size: 20px;
-    color: #413761;
+    color: rgb(230, 140, 140);
 }
 
 #palpites {
@@ -51,19 +51,19 @@ p {
     padding: 1rem;
     border: none;
     text-align: center;
-    background-color: #E3DFFD;
+    background-color: #FFDEDE;
     font-size: 16px;
 }
 
 #palite::placeholder {
-    color: #490363;
+    color: #c0b5c4;
     font-size: 16px;
 }
 
 #submeter {
     width: 80px;
     height: 34px;
-    background-color: #443C68;
+    background-color: #9BCDD2;
     color: white;
     border: none;
     border-radius: 5px;
@@ -71,7 +71,7 @@ p {
 }
 
 #submeter:hover {
-    background-color: #393053;
+    background-color: #7cb7bc;
 }
 
 #submeter:disabled {
@@ -80,7 +80,7 @@ p {
 }
 
 footer {
-    background-color: #E3DFFD;
+    background-color: #FFD0D0;
     padding: 20px;
     text-align: center;
     position: fixed;
